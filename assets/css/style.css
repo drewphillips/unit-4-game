@@ -1,0 +1,35 @@
+body {
+
+    margin: auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica,sans-serif;
+    background-image: url("../images/light-grey-terrazzo.png");
+}
+
+#crystal0
+{
+    margin: 14%;
+    float: left;
+}
+
+#crystal1
+{
+    margin: 0%;
+    float: left;
+}
+
+#crystal2
+{
+    margin: 0%;
+    float: left;
+}
+
+#crystal3
+{
+    margin: 0%;
+    float: left;
+}
+
+#h2
+{
+    color: red;
+}
